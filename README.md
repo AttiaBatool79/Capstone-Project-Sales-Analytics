@@ -1,7 +1,11 @@
 # Sales Analytics Capstone Project
 
 ## Project Overview
-This capstone project focuses on analyzing sales data using various data analytics tools. The dataset used is "Pakistan's Largest E-Commerce Dataset," freely available on Kaggle. The project is divided into four parts, each utilizing a different tool: Excel, Looker Studio, Power BI, and SQL. 
+This capstone project focuses on analyzing sales data using various data analytics tools. The dataset used is "Pakistan's Largest E-Commerce Dataset," freely available on Kaggle. 
+```bash
+https://drive.google.com/file/d/15_Hu0xfiMPfhJHPTAmQtHyqtDr3vOOMn/view?usp=sharing
+```
+The project is divided into four parts, each utilizing a different tool: Excel, Looker Studio, Power BI, and SQL. 
 
 ## Repository Structure
 This repository contains four folders, each corresponding to a specific part of the project:
