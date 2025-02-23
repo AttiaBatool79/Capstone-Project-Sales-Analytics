@@ -44,15 +44,5 @@ The dataset used in this project is "Pakistan's Largest E-Commerce Dataset," fre
 - **Customizable Reports**: Adaptable for future business needs and analysis.
 
 ## Link to Looker Studio Dashboard
-Due to file size limitations, the Looker Studio dashboard can be accessed via Google Drive:
-[Part 02 - Looker Studio Dashboard](#)
-
-## How to Use
-1. Open the Looker Studio link.
-2. Use slicers and filters to explore different aspects of sales data.
-3. Hover over charts for detailed insights.
-4. Modify the date range to observe trends over time.
-5. Share or export reports as needed.
-
-
-
+Due to file size limitations, the Looker Studio dashboard can be accessed via the following link:
+[Part 02 - Looker Studio Dashboard](https://ln.run/6fKi4)
