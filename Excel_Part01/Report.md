@@ -1,4 +1,4 @@
-# Capstone Project Sales Analytics - Part 01 (Excel Analysis)
+# Sales Analytics Capstone Project - Part 01 (Excel Analysis)
 
 ## Overview
 This part of the capstone project focuses on analyzing sales data using Microsoft Excel. It involves data cleaning, transformation, aggregation, visualization, and formula-based calculations to derive meaningful insights. 
@@ -54,12 +54,15 @@ The dataset used in this project is "Pakistan's Largest E-Commerce Dataset," fre
 - **Formula-Based Analysis**: Enables dynamic calculations without reliance on pivot tables.
 - **Conditional Formatting**: Highlights key trends, improving readability and decision-making.
 
+## Link to Excel File
+Due to the large file size, the Excel file is hosted on Google Drive:
+[Part 01 - Excel Analysis](https://docs.google.com/spreadsheets/d/10j1zuaWebQI5hCLHmG8Kj0FU1Umj5x9koMXNREWJlKE/edit?usp=sharing)
+
 ## How to Use
 1. Open the Excel file.
 2. Navigate to different sheets for each activity.
 3. Use slicers and filters for interactive analysis.
 4. Observe conditional formatting changes based on sales values.
 5. Modify data to see dynamic updates in calculations and visuals.
-
 
 
